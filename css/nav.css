@@ -65,9 +65,6 @@ nav ul li a {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  border-style: solid;
-  border-radius: 15px;
-  border-width: 2px;
 }
 
 nav ul li a:hover {

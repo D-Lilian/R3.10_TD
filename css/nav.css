@@ -39,7 +39,7 @@ nav .profil .profilButton a {
 
 
 nav .profil .profilButton a:hover {
-  color: #2F7269;
+  color: #000000;
   background-color: #777777;
   box-shadow: 0 0 5px #777777;
   transition: box-shadow 1s;
@@ -69,7 +69,6 @@ nav ul li a {
   border-radius: 15px;
   border-width: 2px;
   border-color:  #a5a8a8;
-  box-shadow: 0 0 5px #9ABC43;
 }
 
 nav ul li a:hover {

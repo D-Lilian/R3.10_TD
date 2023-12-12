@@ -1,6 +1,8 @@
 .content{
     padding-left: 10%;
     padding-right: 10%;
+    background-color: #a5a8a8;
+    border-radius: 15px;
 }
 
 .titre{

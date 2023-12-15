@@ -17,3 +17,12 @@ h1{
 h3{
     padding-bottom: 3%;
 }
+
+input{
+    margin: 2% 10%;
+    padding: 1% 5%;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border-style: solid ;
+    border-color: black;
+}

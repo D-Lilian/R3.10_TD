@@ -26,3 +26,7 @@ input{
     border-style: solid ;
     border-color: black;
 }
+
+p{
+    padding-bottom: 3%;
+}
